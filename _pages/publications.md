@@ -35,6 +35,7 @@ author_profile: true
    
 ### Policy Papers and Other Publication:
 - **Tuncel, O.**. 2025. [Teaching literature reviews in the age of generative Artificial Intelligence (AI)](https://educate.apsanet.org/teaching-literature-reviews-in-the-age-of-generative-artificial-intelligence-ai). *Political Science Educator*, 28(2).
+- **Tuncel, O.**. 2024. [Elite interviewing in political science: Insights from leading journals](https://sigla.georgetown.domains/emworkshop/wp-content/uploads/2025/06/QMMR_Fall-2024_EMW-Sympo2_Tuncel.pdf). *Qualitative and Multi-Method Research* (Symposium: Emerging Methodologists Workshop), 22(2). [https://doi.org/10.5281/zenodo.14062819](https://doi.org/10.5281/zenodo.14062819).
 - **Tuncel, O.**, Manning, C., & Smith, I. 2022. [Political integration and post-war elections](https://fba.se/en/about-fba/publications/political-integration-and-post-war-elections/). In the Political Dynamics of DDR Series. *The Folke Bernadotte Academy (FBA).*
 - McCoy, J., Press, B., Somer, M., & **Tuncel, O.** 2022, May 05. [Reducing pernicious polarization: A comparative historical analysis of depolarization](https://carnegieendowment.org/2022/05/05/reducing-pernicious-polarization-comparative-historical-analysis-of-depolarization-pub-87034). *Carnegie*.
 - Bakan, R. & **Tuncel, O.** 2019, July 04. [Women's struggle in Turkey](https://archive-yaleglobal.yale.edu/content/womens-struggle-turkey). *Yale Global*.
