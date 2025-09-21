@@ -43,12 +43,13 @@ author_profile: true
 ### Under Review
 - [Uniting agains autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *journal article (JMP)*
 - [Understanding opposition strategies through opposition learning: Example of Turkish opposition parties navigating the new electoral field](https://ozlemtuncel.github.io/publications/). *journal article (R & R)*
-- Elite interviewing in political science: Insights from leading journals. *journal article (R & R)* ([EMW project](https://sigla.georgetown.domains/emworkshop/))
+- [Elite interviewing in political science: A meta-analysis of reporting practices.](https://drive.google.com/file/d/1a_JH5MWaH4ETMtBR5ovUi3P6vFsCIIhB/view?usp=sharing) *journal article (conditional acceptance)* ([EMW project](https://sigla.georgetown.domains/emworkshop/))
 
 ### Selected Working Papers
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
-- Unseating autocratizing leaders: Electoral success and opposition coalitions in backsliding democracies. *journal article* (with Jennifer McCoy, will be presented at APSA & MPSA 2025) 
- - Authoritarian control through trusteeship: The case of kayyum in Turkey and implications for comparative authoritarianism. *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en), will be presented at APSA 2025)
+- [Unseating autocratizing leaders: Electoral success and opposition coalitions in backsliding democracies.](https://drive.google.com/file/d/1wl-jAtSgnPZzgAnIaS6zKp8Gerk2FHpI/view?usp=sharing) *journal article* (with Jennifer McCoy, will be presented at APSA & MPSA 2025) 
+ - [Authoritarian control through trusteeship: The case of kayyum in Turkey and implications for comparative authoritarianism.](https://drive.google.com/file/d/13nKWWK8qZczhn7PhhN6hhzbWlWcrVA_z/view?usp=sharing) *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en), will be presented at APSA 2025)
+ - Reshaping institutions, entrenching democratic backsliding, and the transformation of local governance: Trustee appointments in Turkey. *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en), will be presented at PSA's 2025 *Transition in Turkish Politics* Workshop)
 
 ### Work-In-Progress
 - Partisanship, political knowledge, and presidential impeachment attitudes in the US. *book chapter & journal article* (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia))
