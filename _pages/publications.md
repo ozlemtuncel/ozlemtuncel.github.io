@@ -11,7 +11,9 @@ author_profile: true
    - [MPSA Blog Post on *Parties, politics, peace*](https://www.mpsanet.org/introducing-parties-politics-peace-electoral-inclusion-as-peacebuilding/)
 
 ### Peer-Reviewed Journal Articles:
-
+- **Tuncel, O.** 2026. Elite interviewing in political science: A meta-analysis of reporting practices. *Perspectives on Politics*. Published online first. 
+   <details><summary> Abstract </summary> <br> Elite interviewing is a valuable tool for political scientists to understand decisionmaking, trace political processes, and access insider knowledge. Yet, despite its prevalence, we know surprisingly little about how elite interviews are conducted and reported in the discipline. This study addresses this gap by examining elite interviewing practices and transparency using an original dataset of articles published in 13 leading political science journals (2000–2023). Drawing on article content and supplementary materials, I analyze trends in the use and quality of elite interviews, highlighting an increasing reliance on this method, particularly in comparative politics. Findings show promising improvements in reporting practices over time. Systematic reporting and the inclusion of online appendices significantly enhance transparency, offering detailed insights into ethical considerations, confidentiality, and data-sharing practices. This study underscores the evolving rigor in reporting elite interviewing, reflecting its enduring relevance and growing methodological sophistication in political science research. </details>
+   
 - **Tuncel, O.** 2024. Talking to elites: A guide for novice interviewers. *Qualitative and Multi-Method Research*, 22(1), 53-60. [https://doi.org/10.5281/zenodo.11097657](https://doi.org/10.5281/zenodo.11097657).
    <details><summary> Abstract </summary> <br> Elite interviewing is one of the most useful tools in any political scientist’s toolbox when we want to understand elites’ decision making process, yet, the lack of trusted guide for novice interviewers poses great problems in garnering insider information. This paper offers suggestions for graduate students, junior faculty, and faculty new to interviewing for making the most effective use of the qualitative elite interviewing. It proposes what the researcher should be aware of before and after the interview. It discusses and puts forward concrete advice addressing a wide range of issues including but not limited to arranging interviews, positionality of the researcher, and organization of interviews and preparation. The information is based on the author’s own experience of interviewing politicians, government officials, and political party leaders. </details>
 
@@ -41,20 +43,19 @@ author_profile: true
 - Bakan, R. & **Tuncel, O.** 2019, July 04. [Women's struggle in Turkey](https://archive-yaleglobal.yale.edu/content/womens-struggle-turkey). *Yale Global*.
 
 ### Under Review
-- [Uniting agains autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *journal article (JMP)*
+- [Uniting against autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *journal article (JMP)*
 - [Understanding opposition strategies through opposition learning: Example of Turkish opposition parties navigating the new electoral field](https://ozlemtuncel.github.io/publications/). *journal article (R & R)*
-- [Elite interviewing in political science: A meta-analysis of reporting practices.](https://drive.google.com/file/d/1a_JH5MWaH4ETMtBR5ovUi3P6vFsCIIhB/view?usp=sharing) *journal article (conditional acceptance)* ([EMW project](https://sigla.georgetown.domains/emworkshop/))
-
+- Reshaping institutions, entrenching democratic backsliding, and the transformation of local governance: Trustee appointments in Turkey. *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en), special issue on *Transition in Turkish Politics*)
+- Partisanship, political knowledge, and presidential impeachment attitudes in the US. *book chapter & journal article* (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia))
+  
 ### Selected Working Papers
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
-- [Unseating autocratizing leaders: Electoral success and opposition coalitions in backsliding democracies.](https://drive.google.com/file/d/1wl-jAtSgnPZzgAnIaS6zKp8Gerk2FHpI/view?usp=sharing) *journal article* (with Jennifer McCoy, will be presented at APSA & MPSA 2025) 
- - [Authoritarian control through trusteeship: The case of kayyum in Turkey and implications for comparative authoritarianism.](https://drive.google.com/file/d/13nKWWK8qZczhn7PhhN6hhzbWlWcrVA_z/view?usp=sharing) *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en), will be presented at APSA 2025)
- - Reshaping institutions, entrenching democratic backsliding, and the transformation of local governance: Trustee appointments in Turkey. *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en), will be presented at PSA's 2025 *Transition in Turkish Politics* Workshop)
+- [Unseating autocratizing leaders: Electoral success and opposition coalitions in backsliding democracies.](https://drive.google.com/file/d/1wl-jAtSgnPZzgAnIaS6zKp8Gerk2FHpI/view?usp=sharing) *journal article* (with Jennifer McCoy, presented at APSA & MPSA 2025) 
+ - [Authoritarian control through trusteeship: The case of kayyum in Turkey and implications for comparative authoritarianism.](https://drive.google.com/file/d/13nKWWK8qZczhn7PhhN6hhzbWlWcrVA_z/view?usp=sharing) *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en), presented at APSA 2025)
+ - University expansion and political support in Turkey: Higher education’s role in autocratic consolidation. *journal article* (with [Felix Wiebrecht](https://www.felixwiebrecht.com/), will be presented at MPSA 2026, WPSA 2026)
 
 ### Work-In-Progress
-- Partisanship, political knowledge, and presidential impeachment attitudes in the US. *book chapter & journal article* (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia))
 - Why do opposition coalitions endure? Persistence and coordination under electoral authoritarianism. *journal article* (with [Oren Samet](https://www.orensamet.com/))
-- University expansion and political support in Turkey: Higher education’s role in autocratic consolidation. *journal article* (with [Felix Wiebrecht](https://www.felixwiebrecht.com/))
 - Backsliding and the closing civil society space. *journal article* (with [Kelsey Martin-Morales](https://www.kelseymartinmorales.com/))
 - Do opposites attract? Evidence from a conjoint experiment on Turkish political party coalitions. *journal article*
 - Why do autocratic incumbents form pre-electoral coalitions? *journal article*
