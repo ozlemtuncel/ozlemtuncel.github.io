@@ -11,7 +11,7 @@ author_profile: true
    - [MPSA Blog Post on *Parties, politics, peace*](https://www.mpsanet.org/introducing-parties-politics-peace-electoral-inclusion-as-peacebuilding/)
 
 ### Peer-Reviewed Journal Articles:
-- **Tuncel, O.** 2026. Elite interviewing in political science: A meta-analysis of reporting practices. *Perspectives on Politics*. Published online first. [Open Access](files/Tuncel2026.pdf)
+- **Tuncel, O.** 2026. Elite interviewing in political science: A meta-analysis of reporting practices. *Perspectives on Politics*. Published online first. [Open Access](https://www.cambridge.org/core/journals/perspectives-on-politics/article/elite-interviewing-in-political-science-a-metaanalysis-of-reporting-practices/25A4C1CD952322C408FA6E2084C06B08)
    <details><summary> Abstract </summary> <br> Elite interviewing is a valuable tool for political scientists to understand decisionmaking, trace political processes, and access insider knowledge. Yet, despite its prevalence, we know surprisingly little about how elite interviews are conducted and reported in the discipline. This study addresses this gap by examining elite interviewing practices and transparency using an original dataset of articles published in 13 leading political science journals (2000–2023). Drawing on article content and supplementary materials, I analyze trends in the use and quality of elite interviews, highlighting an increasing reliance on this method, particularly in comparative politics. Findings show promising improvements in reporting practices over time. Systematic reporting and the inclusion of online appendices significantly enhance transparency, offering detailed insights into ethical considerations, confidentiality, and data-sharing practices. This study underscores the evolving rigor in reporting elite interviewing, reflecting its enduring relevance and growing methodological sophistication in political science research. </details>
    
 - **Tuncel, O.** 2024. Talking to elites: A guide for novice interviewers. *Qualitative and Multi-Method Research*, 22(1), 53-60. [https://doi.org/10.5281/zenodo.11097657](https://doi.org/10.5281/zenodo.11097657).
@@ -56,7 +56,7 @@ author_profile: true
 
 ### Work-In-Progress
 - Why do opposition coalitions endure? Persistence and coordination under electoral authoritarianism. *journal article* (with [Oren Samet](https://www.orensamet.com/))
-- Charisma as political power: Explaining backsliding and democratic resilience. *journal article* (with [Benjamin Yoel]([https://www.orensamet.com/](https://benjaminyoel.com/research)))
+- Charisma as political power: Explaining backsliding and democratic resilience. *journal article* (with [Benjamin Yoel](https://benjaminyoel.com/research))
 - Backsliding and the closing civil society space. *journal article* (with [Kelsey Martin-Morales](https://www.kelseymartinmorales.com/))
 - Do opposites attract? Evidence from a conjoint experiment on Turkish political party coalitions. *journal article*
 - Why do autocratic incumbents form pre-electoral coalitions? *journal article*
