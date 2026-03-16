@@ -11,7 +11,7 @@ author_profile: true
    - [MPSA Blog Post on *Parties, politics, peace*](https://www.mpsanet.org/introducing-parties-politics-peace-electoral-inclusion-as-peacebuilding/)
 
 ### Peer-Reviewed Journal Articles:
-- **Tuncel, O.** 2026. Elite interviewing in political science: A meta-analysis of reporting practices. *Perspectives on Politics*. Published online first. 
+- **Tuncel, O.** 2026. Elite interviewing in political science: A meta-analysis of reporting practices. *Perspectives on Politics*. Published online first. [Open Access](files/Tuncel2026.pdf)
    <details><summary> Abstract </summary> <br> Elite interviewing is a valuable tool for political scientists to understand decisionmaking, trace political processes, and access insider knowledge. Yet, despite its prevalence, we know surprisingly little about how elite interviews are conducted and reported in the discipline. This study addresses this gap by examining elite interviewing practices and transparency using an original dataset of articles published in 13 leading political science journals (2000–2023). Drawing on article content and supplementary materials, I analyze trends in the use and quality of elite interviews, highlighting an increasing reliance on this method, particularly in comparative politics. Findings show promising improvements in reporting practices over time. Systematic reporting and the inclusion of online appendices significantly enhance transparency, offering detailed insights into ethical considerations, confidentiality, and data-sharing practices. This study underscores the evolving rigor in reporting elite interviewing, reflecting its enduring relevance and growing methodological sophistication in political science research. </details>
    
 - **Tuncel, O.** 2024. Talking to elites: A guide for novice interviewers. *Qualitative and Multi-Method Research*, 22(1), 53-60. [https://doi.org/10.5281/zenodo.11097657](https://doi.org/10.5281/zenodo.11097657).
@@ -45,17 +45,18 @@ author_profile: true
 ### Under Review
 - [Uniting against autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *journal article (JMP)*
 - [Understanding opposition strategies through opposition learning: Example of Turkish opposition parties navigating the new electoral field](https://ozlemtuncel.github.io/publications/). *journal article (R & R)*
-- Reshaping institutions, entrenching democratic backsliding, and the transformation of local governance: Trustee appointments in Turkey. *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en), special issue on *Transition in Turkish Politics*)
+- Trustee appointments and the politics of local governance in Turkey. *journal article* (with [Elif Sari Genc](https://sites.google.com/view/elifsarigenc/bio?authuser=0), special issue on *Transition in Turkish Politics*)
 - Partisanship, political knowledge, and presidential impeachment attitudes in the US. *book chapter & journal article* (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia))
   
 ### Selected Working Papers
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
 - [Unseating autocratizing leaders: Electoral success and opposition coalitions in backsliding democracies.](https://drive.google.com/file/d/1wl-jAtSgnPZzgAnIaS6zKp8Gerk2FHpI/view?usp=sharing) *journal article* (with Jennifer McCoy, presented at APSA & MPSA 2025) 
- - [Authoritarian control through trusteeship: The case of kayyum in Turkey and implications for comparative authoritarianism.](https://drive.google.com/file/d/13nKWWK8qZczhn7PhhN6hhzbWlWcrVA_z/view?usp=sharing) *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en), presented at APSA 2025)
+- [Removal of elected opposition mayors: Evidence from Turkey’s trusteeship interventions.](https://drive.google.com/file/d/13nKWWK8qZczhn7PhhN6hhzbWlWcrVA_z/view?usp=sharing) *journal article* (with [Elif Sari Genc](https://sites.google.com/view/elifsarigenc/bio?authuser=0), presented at APSA 2025)
  - University expansion and political support in Turkey: Higher education’s role in autocratic consolidation. *journal article* (with [Felix Wiebrecht](https://www.felixwiebrecht.com/), will be presented at MPSA 2026, WPSA 2026)
 
 ### Work-In-Progress
 - Why do opposition coalitions endure? Persistence and coordination under electoral authoritarianism. *journal article* (with [Oren Samet](https://www.orensamet.com/))
+- Charisma as political power: Explaining backsliding and democratic resilience. *journal article* (with [Benjamin Yoel]([https://www.orensamet.com/](https://benjaminyoel.com/research)))
 - Backsliding and the closing civil society space. *journal article* (with [Kelsey Martin-Morales](https://www.kelseymartinmorales.com/))
 - Do opposites attract? Evidence from a conjoint experiment on Turkish political party coalitions. *journal article*
 - Why do autocratic incumbents form pre-electoral coalitions? *journal article*
