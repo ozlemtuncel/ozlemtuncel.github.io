@@ -61,7 +61,8 @@ author_profile: true
 - When democracy is suspended: Evaluating public support for trustee governance in Turkey. *journal article (R & R)* (with [Elif Sari Genc](https://sites.google.com/view/elifsarigenc/bio?authuser=0))
 - Does symbolic leverage work? Impact of candidate appearance on voter preferences in Turkey. *journal article (R & R)* (with [Elif Sari Genc](https://sites.google.com/view/elifsarigenc/bio?authuser=0))
 - Ideological diversity, cohesion, and voter perceptions of coalitions in Hungary. *journal article* ([Pre-Analysis Plan available here](https://osf.io/gd9x4/overview))
-- Barely elected vs. safely elected: Parliamentary behavior of marginal and secure MPs in Turkey. *journal article* (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io/) and [Hilal Sert](https://serthilal.github.io/)) 
+- Barely elected vs. safely elected: Parliamentary behavior of marginal and secure MPs in Turkey. *journal article* (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io/) and [Hilal Sert](https://serthilal.github.io/))
+- Digital drama: TV-themed online engagement as oppositional discourse. (with [Lisel Hintz](http://www.liselhintz.com/))
 - Why do autocratic incumbents form pre-electoral coalitions? *journal article*
 - Electoral coordination of post-rebel electoral parties. *journal article*
 - Can peace survive the party-state? *journal article* (with Carrie Manning)
