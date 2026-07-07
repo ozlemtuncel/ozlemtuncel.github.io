@@ -36,29 +36,32 @@ author_profile: true
    <details><summary> Abstract </summary> <br> This chapter explores the implications of liberal peacebuilding in Sub-Saharan Africa since the end of the Cold War in 1989, focusing on the electoral inclusion of former armed opposition groups. In nearly all cases of civil wars ending in this era, armed opposition groups have been invited to form political parties, and the majority of armed opposition groups did so. Using a dataset that tracks rebel groups that form parties at the end of civil conflict and participate in electoral politics, this chapter shows that most such parties have accepted participation in electoral politics as an essential part of their political strategies and have continued to participate over time. Unfortunately, commitment to electoral politics does not mean that they are committed democrats. The chapter examines some of the African post-rebel parties in detail and shows that electoral politics enabled competing elites to manage conflict successfully in most cases, but that the electoral inclusion for these armed actors has rarely been transformative. These groups either gained power and became dominant ruling parties, remained marginal political actors, or returned to armed conflict. </details>
    
 ### Policy Papers and Other Publication:
-- **Tuncel, O.**. 2025. [Teaching literature reviews in the age of generative Artificial Intelligence (AI)](https://educate.apsanet.org/teaching-literature-reviews-in-the-age-of-generative-artificial-intelligence-ai). *Political Science Educator*, 28(2).
-- **Tuncel, O.**. 2024. [Elite interviewing in political science: Insights from leading journals](https://sigla.georgetown.domains/emworkshop/wp-content/uploads/2025/06/QMMR_Fall-2024_EMW-Sympo2_Tuncel.pdf). *Qualitative and Multi-Method Research* (Symposium: Emerging Methodologists Workshop), 22(2). [https://doi.org/10.5281/zenodo.14062819](https://doi.org/10.5281/zenodo.14062819).
+- **Tuncel, O.** 2025. [Teaching literature reviews in the age of generative Artificial Intelligence (AI)](https://educate.apsanet.org/teaching-literature-reviews-in-the-age-of-generative-artificial-intelligence-ai). *Political Science Educator*, 28(2).
+- **Tuncel, O.** 2024. [Elite interviewing in political science: Insights from leading journals](https://sigla.georgetown.domains/emworkshop/wp-content/uploads/2025/06/QMMR_Fall-2024_EMW-Sympo2_Tuncel.pdf). *Qualitative and Multi-Method Research* (Symposium: Emerging Methodologists Workshop), 22(2). [https://doi.org/10.5281/zenodo.14062819](https://doi.org/10.5281/zenodo.14062819).
 - **Tuncel, O.**, Manning, C., & Smith, I. 2022. [Political integration and post-war elections](https://fba.se/en/about-fba/publications/political-integration-and-post-war-elections/). In the Political Dynamics of DDR Series. *The Folke Bernadotte Academy (FBA).*
 - McCoy, J., Press, B., Somer, M., & **Tuncel, O.** 2022, May 05. [Reducing pernicious polarization: A comparative historical analysis of depolarization](https://carnegieendowment.org/2022/05/05/reducing-pernicious-polarization-comparative-historical-analysis-of-depolarization-pub-87034). *Carnegie*.
 - Bakan, R. & **Tuncel, O.** 2019, July 04. [Women's struggle in Turkey](https://archive-yaleglobal.yale.edu/content/womens-struggle-turkey). *Yale Global*.
 
 ### Under Review
-- [Uniting against autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *journal article (JMP)*
+- [Uniting against autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *journal article (JMP, R & R)*
 - [Understanding opposition strategies through opposition learning: Example of Turkish opposition parties navigating the new electoral field](https://ozlemtuncel.github.io/publications/). *journal article (R & R)*
-- Trustee appointments and the politics of local governance in Turkey. *journal article* (with [Elif Sari Genc](https://sites.google.com/view/elifsarigenc/bio?authuser=0), special issue on *Transition in Turkish Politics*)
-- Partisanship, political knowledge, and presidential impeachment attitudes in the US. *book chapter & journal article* (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia))
+- Trustee appointments and the politics of local governance in Turkey. *journal article (R & R)* (with [Elif Sari Genc](https://sites.google.com/view/elifsarigenc/bio?authuser=0), special issue on *Transition in Turkish Politics*)
+- Partisanship, political knowledge, and presidential impeachment attitudes in the US. *book chapter (R & R) * (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia))
   
 ### Selected Working Papers
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
 - [Unseating autocratizing leaders: Electoral success and opposition coalitions in backsliding democracies.](https://drive.google.com/file/d/1wl-jAtSgnPZzgAnIaS6zKp8Gerk2FHpI/view?usp=sharing) *journal article* (with Jennifer McCoy, presented at APSA & MPSA 2025) 
-- [Removal of elected opposition mayors: Evidence from Turkey’s trusteeship interventions.](https://drive.google.com/file/d/13nKWWK8qZczhn7PhhN6hhzbWlWcrVA_z/view?usp=sharing) *journal article* (with [Elif Sari Genc](https://sites.google.com/view/elifsarigenc/bio?authuser=0), presented at APSA 2025)
- - University expansion and political support in Turkey: Higher education’s role in autocratic consolidation. *journal article* (with [Felix Wiebrecht](https://www.felixwiebrecht.com/), will be presented at MPSA 2026, WPSA 2026)
+- [Removal of elected opposition mayors: Evidence from Turkey’s trusteeship interventions.](https://drive.google.com/file/d/13nKWWK8qZczhn7PhhN6hhzbWlWcrVA_z/view?usp=sharing) *journal article* (with [Elif Sari Genc](https://sites.google.com/view/elifsarigenc/bio?authuser=0), will be presented at APSA 2026)
+ - University expansion and political support in Turkey: Higher education’s role in autocratic consolidation. *journal article* (with [Felix Wiebrecht](https://www.felixwiebrecht.com/), presented at MPSA 2026, WPSA 2026)
 
 ### Work-In-Progress
 - Why do opposition coalitions endure? Persistence and coordination under electoral authoritarianism. *journal article* (with [Oren Samet](https://www.orensamet.com/))
-- Charisma as political power: Explaining backsliding and democratic resilience. *journal article* (with [Benjamin Yoel](https://benjaminyoel.com))
+- Outsider political status and opposition to democratic backsliding. *journal article* (with [Benjamin Yoel](https://benjaminyoel.com))
 - Backsliding and the closing civil society space. *journal article* (with [Kelsey Martin-Morales](https://www.kelseymartinmorales.com/))
-- Do opposites attract? Evidence from a conjoint experiment on Turkish political party coalitions. *journal article*
+- When democracy is suspended: Evaluating public support for trustee governance in Turkey. *journal article (R & R)* (with [Elif Sari Genc](https://sites.google.com/view/elifsarigenc/bio?authuser=0))
+- Does symbolic leverage work? Impact of candidate appearance on voter preferences in Turkey. *journal article (R & R)* (with [Elif Sari Genc](https://sites.google.com/view/elifsarigenc/bio?authuser=0))
+- Ideological diversity, cohesion, and voter perceptions of coalitions in Hungary. *journal article* ([Pre-Analysis Plan available here](https://osf.io/gd9x4/overview))
+- Barely elected vs. safely elected: Parliamentary behavior of marginal and secure MPs in Turkey. *journal article* (with [Burak Kazim Yilmaz](https://burakkazimyilmaz.github.io/) and [Hilal Sert](https://serthilal.github.io/)) 
 - Why do autocratic incumbents form pre-electoral coalitions? *journal article*
 - Electoral coordination of post-rebel electoral parties. *journal article*
 - Can peace survive the party-state? *journal article* (with Carrie Manning)
